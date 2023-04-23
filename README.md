@@ -22,4 +22,5 @@
 + [catch eggs](https://github.com/minhao920201/Game_Programming/blob/main/quiz/week%204%20egg/week%204%20egg/OhEgg_7/OhEgg_7.pde)
 # Homework
 + [haemal strand gogo](https://github.com/minhao920201/Game_Programming/blob/main/homework/haemal_strand_GoGo/haemal_strand_GoGo.pde)
++ [lion](https://github.com/minhao920201/Game_Programming/blob/main/homework/lion/lion.pde)
 # Final project
