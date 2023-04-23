@@ -26,4 +26,5 @@
 + [mouse and keyboard control](https://github.com/minhao920201/Game_Programming/blob/main/homework/mouse_and_keyboard_control/mouse_and_keyboard_control.pde)
 + [piano](https://github.com/minhao920201/Game_Programming/blob/main/homework/piano/piano.pde)
 + [player and bugs](https://github.com/minhao920201/Game_Programming/blob/main/homework/player_and_bug/player_and_bug.pde)
++ [random circle moving](https://github.com/minhao920201/Game_Programming/blob/main/homework/random_circle_moving/random_circle_moving.pde)
 # Final project
