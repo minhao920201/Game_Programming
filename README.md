@@ -27,4 +27,5 @@
 + [piano](https://github.com/minhao920201/Game_Programming/blob/main/homework/piano/piano.pde)
 + [player and bugs](https://github.com/minhao920201/Game_Programming/blob/main/homework/player_and_bug/player_and_bug.pde)
 + [random circle moving](https://github.com/minhao920201/Game_Programming/blob/main/homework/random_circle_moving/random_circle_moving.pde)
++ [shining stars](https://github.com/minhao920201/Game_Programming/blob/main/homework/shining_star/shining_star.pde)
 # Final project
